@@ -1,0 +1,52 @@
+
+# Site settings
+title: Na Wang
+name: Na Wang
+subtitle: Data Science & Tech Ethusiast
+email: wangna867@gmail.com
+description: >
+  Data Science & Tech Ethusiast
+baseurl: ""
+url: "https://nawang.github.io/"
+github_username:  nawangm
+disqus_baseurl: "https://nawangm.github.io/"
+disqus_shortname: https-nawangm-github-io
+permalink: :title
+
+# Build settings
+markdown: kramdown
+paginate: 5
+paginate_path: "/page:num/"
+inter_post_navigation: true
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      author: "Na Wang"
+
+
+
+# External gems
+gems:
+  - jekyll-paginate
+  - jemoji
+  - jekyll-seo-tag
+
+
+
+social:
+  - name: GitHub
+    icon: github
+    username: nawangm
+    url: https://github.com/nawangm
+    desc: Fork me on GitHub
+    share: false
+
+  - name: LinkedIn
+    icon: linkedin
+    username: Na Wang
+    url: https://linkedin.com/na-wang-0bb24a28
+    desc: Connect with me on LinkedIn
+    share: true
