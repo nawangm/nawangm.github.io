@@ -7,7 +7,7 @@ email: wangna867@gmail.com
 description: >
   Data Science & Tech Ethusiast
 baseurl: ""
-url: "https://nawang.github.io/"
+url: "https://nawangm.github.io/"
 github_username:  nawangm
 disqus_baseurl: "https://nawangm.github.io/"
 disqus_shortname: https-nawangm-github-io
@@ -47,6 +47,6 @@ social:
   - name: LinkedIn
     icon: linkedin
     username: Na Wang
-    url: https://linkedin.com/na-wang-0bb24a28
+    url: https://linkedin.com/in/na-wang-0bb24a28
     desc: Connect with me on LinkedIn
     share: true
