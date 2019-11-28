@@ -1,7 +1,7 @@
 
 # Site settings
-title: Na Wang
-name: Na Wang
+title: Na Wang-Maier
+name: Na Wang-Maier
 subtitle: Data Science & Tech Ethusiast
 email: wangna867@gmail.com
 description: >
@@ -24,7 +24,7 @@ defaults:
     scope:
       path: ""
     values:
-      author: "Na Wang"
+      author: "Na Wang-Maier"
 
 
 
@@ -46,7 +46,7 @@ social:
 
   - name: LinkedIn
     icon: linkedin
-    username: Na Wang
+    username: Na Wang-Maier
     url: https://linkedin.com/in/na-wang-0bb24a28
     desc: Connect with me on LinkedIn
     share: true
